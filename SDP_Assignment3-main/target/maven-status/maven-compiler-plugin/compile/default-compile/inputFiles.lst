@@ -1,0 +1,12 @@
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/EncryptedNotification.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/Main.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/MarketingNotification.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/MessageSender.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/Notification.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/ScheduledBatchNotification.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/UrgentNotification.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/sender/EmailMessageSender.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/sender/KafkaEventSender.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/sender/PushNotificationSender.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/sender/SmsMessageSender.java
+/home/aldiar/AITU/SDP_Assignment3/src/main/java/com/notification/sender/TelegramMessageSender.java
